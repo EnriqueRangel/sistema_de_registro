@@ -6,3 +6,6 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/YeriRangel?style=social)
 
+Para ejecutar el sistema, debes poner:
+
+```npm install react```
