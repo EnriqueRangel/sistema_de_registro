@@ -1,3 +1,8 @@
-<h1>Sistema de Registro</h1>
+<h1 align="center">Sistema de Registro</h1>
 
-- Estado del proyecto: En construccion 
+<p align="left">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
+
+![GitHub Org's stars](https://img.shields.io/github/stars/YeriRangel?style=social)
+
